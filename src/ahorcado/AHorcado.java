@@ -19,9 +19,10 @@ public class AHorcado {
     public static void main(String args[]) {
 
         Scanner sc = new Scanner(System.in);
+       
 
         //Creando variables 
-        int intentos = 5, W = 0;
+        int intentos = 6, W = 0;
 
         boolean VD = true, w = true;
 
